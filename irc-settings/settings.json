@@ -1,0 +1,15 @@
+{
+    "imverbotim": {
+        "username": "",
+        "password": "",
+        "channels": ""
+        },
+    "database": {
+        "user": "",
+        "password": "",
+        "host": "",
+        "port": ,
+        "database": ""
+    }
+
+}
